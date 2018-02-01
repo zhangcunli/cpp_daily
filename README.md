@@ -1,7 +1,7 @@
 cpp_daily
 =========
 Author: Yournero
-Email:  zhangcunli8499@gmail.com
+Email:  zhangcunli@gmail.com
 
 =========
 cpp little problems
